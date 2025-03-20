@@ -1,0 +1,19 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+CN1,GND,CONN-TH_4P-P2.54_CAX_2510-4A,155.64,-92.85,-90,top
+CN2,Starboard Thrust,CONN-TH_4P-P2.54_CAX_2510-4A,155.64,-74.93,-90,top
+CN3,Port Thrust,CONN-TH_4P-P2.54_CAX_2510-4A,156.64,-136.85,-90,top
+CN4,Horizontal Reset Row,HDR-TH_4P-P2.54-V-F,134.1744,-132.5244,-90,top
+CN6,Vertical Reset Row,HDR-TH_4P-P2.54-V-F,134.1737,-82.9453,-90,top
+Depth2,Depth 2,HDR-TH_4P-P2.54-V-F,144.57,-101.53,-90,top
+DepthNA1,NA 1,HDR-TH_4P-P2.54-V-F,113.64,-115.47,-90,top
+DepthNA2,NA 2,HDR-TH_4P-P2.54-V-F,113.64,-101.47,-90,top
+H1,Depth 1,HDR-TH_4P-P2.54-V-F,144.57,-115.54,-90,top
+Kill_Switch1,Kill Switch,CONN-TH_P5.00_KF128-5.0-2P,155,-115.6,90,top
+Kill_Switch2,Horizontal Reset,CONN-TH_P5.00_KF128-5.0-2P,78.64,-117.16,-90,top
+Kill_Switch3,Vertical Reset,CONN-TH_P5.00_KF128-5.0-2P,78.64,-100.16,-90,top
+Kill_Switch4,Horizontal On/Off,CONN-TH_P5.00_KF128-5.0-2P,78.64,-146.16,-90,top
+Kill_Switch5,Vertical On/Off,CONN-TH_P5.00_KF128-5.0-2P,78.64,-70.16,-90,top
+U1,L1,HDR-TH_24P-P2.54-V-F,117.67,-141.41,0,top
+U2,L2,HDR-TH_24P-P2.54-V-F,117.67,-126.18,0,top
+U3,R1,HDR-TH_24P-P2.54-V-F,117.67,-91.83,0,top
+U4,R2,HDR-TH_24P-P2.54-V-F,117.67,-76.6,0,top
